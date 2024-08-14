@@ -87,7 +87,7 @@ This project showcases the application of Conditional GANs in generating class-s
 
 For any questions or discussions about this project, feel free to reach out:
 
-- **Email:** [balumahendraareti@gmail](mailto:balumahendraareti@gmail.com)
+- **Email:** [balumahendraareti@gmail.com](mailto:balumahendraareti@gmail.com)
 
 
 ---
